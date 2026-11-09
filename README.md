@@ -1,4 +1,5 @@
 🛒 Blinkit Grocery Sales Analysis Dashboard (Excel)
+
 📌 Project Overview
 
 This project presents an interactive Blinkit Grocery Sales Dashboard built using Microsoft Excel. The dashboard analyzes grocery sales performance, outlet performance, product categories, customer ratings, and other key business metrics.
